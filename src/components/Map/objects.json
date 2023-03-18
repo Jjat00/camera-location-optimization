@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "location": {
+      "longitude": -77.7895625,
+      "latitude": 0.9088773
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 2,
+    "location": {
+      "longitude": -77.7895681,
+      "latitude": 0.9086919
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 3,
+    "location": {
+      "longitude": -77.7895655,
+      "latitude": 0.9087864
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 4,
+    "location": {
+      "longitude": -77.7895746,
+      "latitude": 0.9085895
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 5,
+    "location": {
+      "longitude": -77.7897109,
+      "latitude": 0.9089454
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 6,
+    "location": {
+      "longitude": -77.78982,
+      "latitude": 0.908956
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 7,
+    "location": {
+      "longitude": -77.7897578,
+      "latitude": 0.9081382
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 8,
+    "location": {
+      "longitude": -77.7899714,
+      "latitude": 0.9081639
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 9,
+    "location": {
+      "longitude": -77.7903319,
+      "latitude": 0.908856
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 10,
+    "location": {
+      "longitude": -77.789401,
+      "latitude": 0.9088318
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 11,
+    "location": {
+      "longitude": -77.7894071,
+      "latitude": 0.9086591
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 12,
+    "location": {
+      "longitude": -77.7893631,
+      "latitude": 0.9081745
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 13,
+    "location": {
+      "longitude": -77.7894904,
+      "latitude": 0.9079519
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 14,
+    "location": {
+      "longitude": -77.7903083,
+      "latitude": 0.9080261
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 15,
+    "location": {
+      "longitude": -77.790528,
+      "latitude": 0.9082729
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 16,
+    "location": {
+      "longitude": -77.7904901,
+      "latitude": 0.9086228
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 17,
+    "location": {
+      "longitude": -77.7908082,
+      "latitude": 0.9081048
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 18,
+    "location": {
+      "longitude": -77.7910445,
+      "latitude": 0.9081185
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 19,
+    "location": {
+      "longitude": -77.7910702,
+      "latitude": 0.9089484
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 20,
+    "location": {
+      "longitude": -77.7914231,
+      "latitude": 0.9083971
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 21,
+    "location": {
+      "longitude": -77.7913883,
+      "latitude": 0.9086652
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 22,
+    "location": {
+      "longitude": -77.7896191,
+      "latitude": 0.9077348
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 23,
+    "location": {
+      "longitude": -77.7904662,
+      "latitude": 0.9078664
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 24,
+    "location": {
+      "longitude": -77.7907628,
+      "latitude": 0.9090603
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 25,
+    "location": {
+      "longitude": -77.7888586,
+      "latitude": 0.9088812
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 26,
+    "location": {
+      "longitude": -77.7887423,
+      "latitude": 0.9079823
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 27,
+    "location": {
+      "longitude": -77.7912989,
+      "latitude": 0.9078829
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 28,
+    "location": {
+      "longitude": -77.7905126,
+      "latitude": 0.9073569
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 29,
+    "location": {
+      "longitude": -77.7903261,
+      "latitude": 0.9092967
+    },
+    "typeElement": {
+      "id": 1,
+      "name": "car",
+      "urlIconColor": "https://i.ibb.co/FYQ7gY7/car.png"
+    }
+  },
+  {
+    "id": 30,
+    "location": {
+      "longitude": -77.7900686,
+      "latitude": 0.9091104
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 31,
+    "location": {
+      "longitude": -77.7913308,
+      "latitude": 0.9092086
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  },
+  {
+    "id": 32,
+    "location": {
+      "longitude": -77.7919438,
+      "latitude": 0.9090241
+    },
+    "typeElement": {
+      "id": 2,
+      "name": "house",
+      "urlIconColor": "https://i.ibb.co/vYW7DLD/house.png"
+    }
+  }
+]
