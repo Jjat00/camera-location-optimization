@@ -1,5 +1,6 @@
 {
   "name": "map-with-react-mapbox",
+  "homepage": "https://jjat00.github.io/camera-location-optimization/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +8,9 @@
     "dev": "vite",
     "develop": "env-cmd -e develop npm run dev",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build-prod": "env-cmd -e production npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@turf/turf": "^6.5.0",
@@ -20,6 +23,7 @@
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react-swc": "^3.0.0",
+    "gh-pages": "^5.0.0",
     "vite": "^4.1.0"
   }
 }
