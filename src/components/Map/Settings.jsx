@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import findSensors from "../../services/findSensors";
+import "./Settings.css";
 
 const Settings = ({ objects, setSensors, setSettings }) => {
   const [form, setForm] = useState({
@@ -41,56 +42,25 @@ const Settings = ({ objects, setSensors, setSettings }) => {
   };
 
   return (
-    <form
-      onSubmit={submitForm}
-      style={{
-        display: "flex",
-        margin: "10px",
-        color: "#ffffff",
-        fontWeight: "bold",
-        fontSize: "1.3rem",
-      }}
-    >
-      <div>
-        <label
-          style={{
-            color: "#fde052",
-          }}
-          htmlFor="numberSensors"
-        >
+    <form onSubmit={submitForm} className="form">
+      <div className="wrapper-label">
+        <label className="label" htmlFor="numberSensors">
           Numero de cámaras:{" "}
         </label>
         <input
-          style={{
-            margin: "0 10px",
-            padding: "5px 10px",
-            fontWeight: "bold",
-            fontSize: "1rem",
-            color: "#52fd7d",
-          }}
+          className="input"
           id="numberSensors"
           type="number"
           value={form.numberSensors}
           onChange={onChange}
         />
       </div>
-      <div>
-        <label
-          style={{
-            color: "#fde052",
-          }}
-          htmlFor="radius"
-        >
+      <div className="wrapper-label">
+        <label className="label" htmlFor="radius">
           Radio de alcance (m):{" "}
         </label>
         <input
-          style={{
-            margin: "0 10px",
-            padding: "5px 10px",
-            fontWeight: "bold",
-            fontSize: "1rem",
-            color: "#52fd7d",
-          }}
+          className="input"
           id="radius"
           type="number"
           value={form.radius}

@@ -1,0 +1,37 @@
+.form {
+  display: flex;
+  margin: 10px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.wrapper-label {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.label {
+  color: #fde052;
+}
+
+.input {
+  margin: 10px;
+  padding: 5px 10px;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #52fd7d;
+  width: 100px;
+}
+
+@media (max-width: 870px) {
+  .form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+}
